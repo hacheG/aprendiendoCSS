@@ -1,0 +1,28 @@
+.title{
+    text-align: center;
+    font-size: 3em;
+}
+
+p{
+    font-size: 2em;
+}
+
+.parrafo-1{
+    /* visibility: hidden; */
+    display: none;
+}
+
+/* flujoHTML
+es el orden en el que aparecen los 
+elementos en el documento
+
+espacio
+es el espacio que ocupa un elemento
+en el documento
+
+con visibilit: hidden
+se mantiene el espacio, pero no se muestra
+el contenido
+
+con display: none
+desaparece el especio */
